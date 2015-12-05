@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Test 5
+Exec=sailfish-qml test5
+Icon=test5
+Type=Application
+X-Nemo-Application-Type=silica-qt5
